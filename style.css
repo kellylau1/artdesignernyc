@@ -22,7 +22,9 @@
 
 .image2{
     float: left;
-    
+    width: 300px;
+    margin: auto;
+    display: block;
 }
 
 .navbar{
