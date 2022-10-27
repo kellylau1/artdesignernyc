@@ -20,6 +20,11 @@
     display: block;
 }
 
+.image2{
+    float: left;
+    
+}
+
 .navbar{
     width: 100%; 
     margin: auto; 
