@@ -15,9 +15,9 @@
 }
 
 .image1{
-    background-image: linear; 
-    background-size: cover;
-    background-position: center;
+    width: 300px;
+    margin: auto;
+    display: block;
 }
 
 .navbar{
