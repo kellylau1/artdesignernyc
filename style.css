@@ -21,10 +21,8 @@
 }
 
 .image2{
-    max-width: 70%;
+    width: 70%;
     height: auto;
-    margin: auto;
-    display: block;
     background-size: contain; 
 }
 
