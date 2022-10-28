@@ -26,16 +26,7 @@
     background-size: contain; 
 }
 
-.button{
-    width: 100%; 
-    color: green; 
-    padding: 100px 0; 
-    background: white; 
-    margin: auto;
-    display: flex; 
-    align-items: center; 
-    justify-content: space-between; 
-    font-family: fantasy;
+
 }
 .button {border-radius: 50%;}
 
