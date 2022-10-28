@@ -28,16 +28,15 @@
 
 
 }
-.button {border-radius: 50%;}
 
-
-.button {
-  transition-duration: 0.4s;
-}
-
-.button:hover {
-  background-color: #4CAF50;
-  color: white;
+.button{
+    width: 100%; 
+    margin: auto; 
+    padding: 100px 0; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between; 
+    font-family: fantasy;
 }
 
 a{
