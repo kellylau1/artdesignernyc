@@ -26,6 +26,12 @@
     background-size: contain; 
 }
 
+.coverphoto{
+    width: 300px;
+    margin: auto;
+    display: block;
+}
+
 .navbar{
     width: 100%; 
     margin: auto; 
